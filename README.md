@@ -1,6 +1,6 @@
 # MLB Team Game and Standings Script
 
-This script fetches and displays information about the Chicago Cubs' games and their standings in the MLB. It uses the MLB API to get details on today's game, upcoming games, and current standings.  The script is written in JavaScript and is designed to run in the Scriptable app on iOS devices.  This script was written to be included with a custom "Daily Briefing" apple shortcut that runs each morning to provide a summary of todays game(s) and standings.
+This script fetches and displays information about the Chicago Cubs' games and their standings in the MLB. It uses the MLB API to get details on today's game, upcoming games, and current standings.  The script is written in JavaScript and is designed to run in the [Scriptable](https://scriptable.app) app on iOS devices.  This script was written to be included with a custom "Daily Briefing" apple shortcut that runs each morning to provide a summary of todays game(s) and standings.
 
 ## Overview
 
